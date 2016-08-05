@@ -1,0 +1,8 @@
+project			= "hashicorp-best-practices2"
+region			= "us-central1"
+credentials		= "REPLACE_IN_ATLAS"
+atlas_username  	= "rcgenova"
+atlas_environment 	= "best-practices-google-prod"
+image			= "ubuntu-1404-trusty-v20160114e"
+name			= "prod"
+cidr			= "10.140.0.0/16"
